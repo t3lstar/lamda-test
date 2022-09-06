@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "lamda-test-executor",
+    "name": "lamda-test",
+    "region": "eu-west-1"
+  },
+  "api": {
+    "id": "21lvpse0zk",
+    "module": "dist/index"
+  }
+}
